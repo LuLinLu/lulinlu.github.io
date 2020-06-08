@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>卢林 ｜ 个人简历</title>
+    <link>localhost:1313/</link>
+    <description>Recent content on 卢林 ｜ 个人简历</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Oct 2017 03:29:08 -0700</lastBuildDate>
+    
+	<atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>APP | 久信科技内部APP</title>
+      <link>localhost:1313/cope/</link>
+      <pubDate>Sun, 15 Oct 2017 03:29:08 -0700</pubDate>
+      
+      <guid>localhost:1313/cope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>东方之声 | 课程电话销售系统</title>
+      <link>localhost:1313/360pro/</link>
+      <pubDate>Sun, 15 Oct 2017 03:29:08 -0700</pubDate>
+      
+      <guid>localhost:1313/360pro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>物业管理及合同网签系统 | 青创共同体</title>
+      <link>localhost:1313/tedx/</link>
+      <pubDate>Sun, 15 Oct 2017 03:29:08 -0700</pubDate>
+      
+      <guid>localhost:1313/tedx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
